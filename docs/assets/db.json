@@ -1,0 +1,172 @@
+{
+  "menu": {
+    "PLATOS": [
+      [
+        "*INGREDIENTES*",
+        "Elegi 4 de estos para tu plato",
+        [
+          [
+            "Jamon",
+            "0"
+          ],
+          [
+            "Queso",
+            "0"
+          ],
+          [
+            "Lechuga",
+            "0"
+          ],
+          [
+            "Tomate",
+            "0"
+          ],
+          [
+            "Cheddar",
+            "0"
+          ],
+          [
+            "Panceta",
+            "0"
+          ],
+          [
+            "Cebolla Caramelizada",
+            "0"
+          ],
+          [
+            "Morrón",
+            "0"
+          ],
+          [
+            "Champignones",
+            "0"
+          ],
+          [
+            "Queso Azul",
+            "0"
+          ]
+        ]
+      ],
+      [
+        "HAMBURGUESAS",
+        "Armala como quieras, viene con fritas y cuatro ingredientes a elección",
+        [
+          [
+            "Simple",
+            "760"
+          ],
+          [
+            "Doble",
+            "900"
+          ],
+          [
+            "Triple",
+            "1080"
+          ]
+        ]
+      ],
+      [
+        "BONDIOLA XL",
+        "Super sandwich de bondiola en pan de campo de 30 cm, con fritas",
+        [
+          [
+            "Capresse",
+            "1050"
+          ],
+          [
+            "Braseada a la Porter",
+            "1050"
+          ],
+          [
+            "A la mostaza con cebolla",
+            "1050"
+          ]
+        ]
+      ]
+    ],
+    "CERVEZAS": [
+      [
+        "GOLDEN",
+        "La clásica rubia tirada, by BROWNER",
+        [
+          [
+            "Pinta",
+            "300"
+          ],
+          [
+            "Litro",
+            "600"
+          ]
+        ]
+      ],
+      [
+        "HONEY",
+        "La rubia con agregado de miel, si querés una birra suave, by BROWNER",
+        [
+          [
+            "Pinta",
+            "300"
+          ],
+          [
+            "Litro",
+            "600"
+          ],
+          [
+            "Litro y medio",
+            "1200"
+          ]
+        ]
+      ],
+      [
+        "PORTER",
+        "La negra, con vainilla",
+        [
+          [
+            "Pinta",
+            "550"
+          ]
+        ]
+      ]
+    ],
+    "TRAGOS": [
+      [
+        "FERNET",
+        "Branca, el único",
+        [
+          [
+            "Pinta",
+            "550"
+          ],
+          [
+            "Litro",
+            "1100"
+          ]
+        ]
+      ],
+      [
+        "GIN TONIC",
+        "Fresco, cítrico, con agua tónica",
+        [
+          [
+            "Pinta",
+            "550"
+          ]
+        ]
+      ],
+      [
+        "GANCIA",
+        "El Americano",
+        [
+          [
+            "Pinta",
+            "550"
+          ],
+          [
+            "Litro",
+            "1100"
+          ]
+        ]
+      ]
+    ]
+  }
+}

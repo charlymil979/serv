@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/servidor.css">
+    <script defer src="./assets/JS/servidor.js"></script>
+    <title>servidor2</title>
+</head>
+<body>
+  <section>
+    <table>
+      <thead>
+        <th>Grupo</th>
+        <th>Nombre</th>
+        <th>Descripcion</th>
+        <th>tipo</th>
+        <th>Precio</th>
+      </thead>
+      <tbody class="container">
+      </tbody>
+
+    </table>
+    <div class="modif">
+      <button onclick="nuevo()">Nuevo <br> Grupo</button>
+      <button onclick="guardar()">Guardar</button>
+    </div>
+  <section class="guardar">
+    <textarea cols="30" rows="10" class="json"></textarea>
+    <button id=guardar onclick=copiarDatos()>Copiar</button>
+    <button id=cerrar onclick="document.querySelector('.guardar').classList.remove('block')">❌</button>
+  </section>
+
+</body>
+</html>
