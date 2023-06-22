@@ -186,12 +186,13 @@ const guardar = function () {
 };
 
 const copiarDatos = function () {
-  console.log("copiar");
+  // console.log("copiar");
   var content = document.querySelector(".json").innerHTML;
   navigator.clipboard
     .writeText(content)
     .then(() => {
-      alert("¡copiado!");
+      alert("¡copiado!")
+      window.open("https://www.npoint.io/docs/cdcfd4c1d992f9552064")
     })
     .catch((error) => {
       console.error("Error al copiar al portapapeles:", error);
